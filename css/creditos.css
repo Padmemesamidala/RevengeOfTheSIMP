@@ -1,0 +1,33 @@
+/**/
+
+.creditosDiv {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 4.5%;
+    width: 89%;
+    height: 480px;
+    border: solid 2px #00326b;
+    padding: 4px;
+    margin-bottom: -50px;
+}
+
+.creditosDiv p {
+    color: #2c2c2c;
+    font-size: 12px;
+}
+
+.creditosDiv p a {
+    color: #2c2c2c;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.creditosDiv p a:hover {
+    color: #0062d3;
+    transition: all 0.3s;
+}
+
+.enlaceBold {
+    font-weight: bold;
+    color: #000000;
+}

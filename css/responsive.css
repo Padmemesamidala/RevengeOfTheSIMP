@@ -1,0 +1,160 @@
+/*Aqui metere los arroba media*/
+
+@media screen and (max-width: 360px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 20px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 400px;
+    }
+    .sinopsisDatos p {
+        font-size: 8px;
+    }
+}
+
+@media screen and (min-width: 361px) and (max-width: 460px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 20px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 300px;
+    }
+    .sinopsisDatos p {
+        font-size: 8px;
+    }
+}
+
+@media screen and (min-width: 461px) and (max-width: 560px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 20px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 300px;
+    }
+    .sinopsisDatos p {
+        font-size: 9px;
+    }
+}
+
+@media screen and (min-width: 561px) and (max-width: 660px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 20px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 300px;
+    }
+    .sinopsisDatos p {
+        font-size: 10px;
+    }
+}
+
+@media screen and (min-width: 661px) and (max-width: 760px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 25px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 300px;
+    }
+    .sinopsisDatos p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 761px) and (max-width: 860px) {
+    /*Creditos*/
+    /*Hacer responsive el tema*/
+    h1 {
+        font-size: 25px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    .menu div {
+        height: 20%;
+        width: 60%;
+    }
+    .menu div a {
+        font-size: 16px;
+    }
+    .creditosDiv p {
+        font-size: 15px;
+    }
+    /*Inicio*/
+    .sinopsisDatos {
+        height: 250px;
+    }
+    .sinopsisDatos p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 861px) {
+    h2 {
+        font-size: 27px;
+    }
+}

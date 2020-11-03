@@ -1,0 +1,47 @@
+/**/
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 15%;
+    margin-top: 30px;
+    width: 70%;
+}
+
+.menu div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2%;
+    width: 325%;
+    height: 50px;
+    border: 2px solid #FF0000;
+    /*fuente*/
+    font-size: 20px;
+    color: #202020;
+    transition: all 0.3s;
+}
+
+.menu div:hover {
+    border: 2px solid #a30000;
+    background: #a30000;
+    color: #ffff;
+    transition: all 0.3s;
+}
+
+.menu div a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    color: #202020;
+    text-decoration: none;
+}
+
+.menu div a:hover {
+    color: #ffff;
+}

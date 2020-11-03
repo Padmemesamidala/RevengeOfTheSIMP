@@ -1,0 +1,27 @@
+/**/
+
+.contenidoPrincipal {
+    /**/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    margin-left: 4.7%;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    width: 90%;
+    background: #fff;
+}
+
+.videoUwU {
+    /**/
+    position: relative;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+.sinopsisDatos {
+    margin-top: 40px;
+}
