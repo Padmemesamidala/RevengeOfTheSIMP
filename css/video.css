@@ -1,14 +1,54 @@
     /**/
     
-    .videoUwU {
-        width: 100%;
-        height: 100%;
-    }
+.videoUwU {
+    width: 100%;
+    height: 100%;
+}
     
-    .sinopsisDatos {
-        width: 70%;
-        height: 240px;
-        border: solid 2px #00326b;
-        padding: 4px;
-        margin-left: 15%;
-    }
+.sinopsisDatos {
+    width: 70%;
+    height: 300px;
+    border: solid 2px #00326b;
+    border-radius: 14px;
+    padding: 4px;
+    margin-left: 15%;
+}
+
+.sinopsisDatos #sinopsisAlternativa{
+    margin-left: 15px;
+    color: #c30000;
+}
+.sinopsisDatos .sinopsisAlternativa{
+    margin-left: 15px;
+}
+.sinopsisDatos p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 95px;
+    margin-right: 95px;
+    font-size: 25px;
+}
+.sinopsisDatos2{
+    width: 70%;
+    height: 500px;
+    border: solid 2px #00326b;
+    border-radius: 14px;
+    padding: 4px;
+    margin-left: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.sinopsisDatos2 p{
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+.sinopsisDatos2 p a{
+    color: #000;
+    text-decoration: none;
+}
+.sinopsisDatos2 p a:hover{
+    color: #bb0000;
+}
